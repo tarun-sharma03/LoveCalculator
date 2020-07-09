@@ -19,7 +19,8 @@ export default class App extends React.Component {
         headers: {
           "x-rapidapi-host": "love-calculator.p.rapidapi.com",
           "x-rapidapi-key":
-            "2e9a26cc07msh024317d830bc2b3p1ae7fbjsna93a2c37a52b",
+            "#",
+          //enter your API key here
         },
       }
     )
